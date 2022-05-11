@@ -1,8 +1,9 @@
 const express = require('express');
-const helmet = require("helmet");
+const { hidePoweredBy } = require('helmet');
+require('dotenv').config();
 const app = express();
 
-app.use(helmet.hidePoweredBy());
+app.use(hidePoweredBy());
 app.use(express.static('public'));
 
-app.listen(8000, null, null, () => console.log('Uruchomiono na porcie 8000.'));
+app.listen(process.env.PORT, () => console.log(`Application is running on http://127.0.0.1:${process.env.PORT}.`));
