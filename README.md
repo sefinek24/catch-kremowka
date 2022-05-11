@@ -2,7 +2,7 @@
 Odpal to cudo. Nie pożałujesz.
 
 ## 🍰 • Jak to uruchomić?
-**1.** Pobierz niniejsze repozytorium.
+**1.** Pobierz niniejsze repozytorium.  
 **2.** Otwórz plik `public/index.html` za pomocą jakiejkolwiek przeglądarki. Najlepiej Brave.
 
 ## 🌍 • Serwer
