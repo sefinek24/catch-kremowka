@@ -7,3 +7,6 @@ Odpal to cudo. Nie pożałujesz. Jeżeli nie chcesz tego pobierać, łap linka h
 
 ## 🌍 • Serwer
 Dla tych, co chcą to udostępnić swoich stronach stworzonych w [Node.js](https://nodejs.org/en) (korzystających z [express](https://www.npmjs.com/package/express)) — udostępniam useless plik serwera. Może kiedyś się go jeszcze wykorzysta w inny sposób.
+
+## 📃 • Licencja
+MIT. Rób se z tym, co tylko chcesz.
