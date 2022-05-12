@@ -22,23 +22,33 @@
             padding-bottom:30px
         }
 
-        #one {
+        #left {
             position:absolute;
+            width:400px;
+            top:5px;
+            left:5px
+        }
+        #left2 {
+            position:absolute;
+            width:500px;
+            left:0;
+            bottom:0;
+        }
+        #right {
+            position:absolute;
+            width:400px;
+            right:5px;
+            bottom:5px
+        }
+
+        video {
+            position:absolute;
+            width:500px;
             top:0;
             left:0;
             right:0;
             bottom:0;
             margin:auto
-        }
-        #two {
-            position:absolute;
-            top:5px;
-            left:5px
-        }
-        #three {
-            position:absolute;
-            right:5px;
-            bottom:5px
         }
 
         #papaj {text-align:center}
@@ -46,17 +56,23 @@
 </head>
 <body>
     <h1>INSERT KREMÓWKA 2137</h1>
-    <img src="images/papiez-tanczy.gif" id="one" alt="heheh papaj tańczy">
-    <img src="images/papaj.gif" id="two" alt="papirus">
-    <img src="images/heh.gif" id="three" alt="papaj cube">
+    <img src="images/papaj.gif" id="left" alt="papirus">
+    <img src="images/papiez-tanczy.gif" id="left2" alt="hehe papaj tańczy">
+    <img src="images/heh.gif" id="right" alt="papaj cube">
 
     <div id="papaj">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/1vZ28SAgzKc?autoplay=1&cc_load_policy=1&controls=0&loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/1vZ28SAgzKc?autoplay=1&cc_load_policy=1&controls=0&loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/1vZ28SAgzKc?autoplay=1&cc_load_policy=1&controls=0&loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/1vZ28SAgzKc?autoplay=1&cc_load_policy=1&controls=0&loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/1vZ28SAgzKc?autoplay=1&cc_load_policy=1&controls=0&loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/1vZ28SAgzKc?autoplay=1&cc_load_policy=1&controls=0&loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <audio controls autoplay><source src="snd/music.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
+        <audio controls autoplay><source src="snd/music.mp3" type="audio/mpeg"></audio>
+        <audio controls autoplay><source src="snd/music.mp3" type="audio/mpeg"></audio>
+        <br>
+        <audio controls autoplay><source src="snd/music.mp3" type="audio/mpeg"></audio>
+        <audio controls autoplay><source src="snd/music.mp3" type="audio/mpeg"></audio>
+        <audio controls autoplay><source src="snd/music.mp3" type="audio/mpeg"></audio>
+        <br>
+        <video width="320" height="240" autoplay>
+            <source src="video/papiez.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
     </div>
 </body>
 </html>
