@@ -1,5 +1,5 @@
 ## 🧀 • Hehe papież tańczy
-Odpal to cudo. Nie pożałujesz.
+Odpal to cudo. Nie pożałujesz. Jeżeli nie chcesz tego pobierać, łap linka https://papiez.skiffybot.xyz.
 
 ## 🍰 • Jak to uruchomić?
 1. Pobierz niniejsze repozytorium.  
