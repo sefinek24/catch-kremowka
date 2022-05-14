@@ -9,11 +9,11 @@ Odpal to cudo. Nie pożałujesz. Pan z wami i z duchem Twoim.
 Dla tych, co chcą to udostępnić swoich stronach stworzonych w [Node.js](https://nodejs.org/en) (korzystających z [express](https://www.npmjs.com/package/express)) — udostępniam plik [serwera](https://papiez.skiffybot.xyz).
 
 ## 💻 • Jak uruchomić aplikacje?
-### Wymagania:
+### » Wymagania:
 - [Node.js](https://nodejs.org/en) w wersji LTS
 - Sklonowane pliki z tego repozytorium
 
-### Krok po kroku co trzeba zrobić
+### » Krok po kroku co trzeba zrobić
 1. Pobierz pliki z repozytorium, klikając przycisk **Code > Download Zip**.
 2. Wypakuj archiwum.
 3. Uruchom plik **start.cmd**.
