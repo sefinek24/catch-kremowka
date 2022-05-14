@@ -1,5 +1,5 @@
 ## 🧀 • Hehe papież tańczy
-Odpal to cudo. Nie pożałujesz. Pan z wami i z duchem Twoim. Możesz również otworzyć to na naszej stronie: https://papiez.skiffybot.xyz
+Odpal to cudo. Nie pożałujesz. Możesz również otworzyć to na naszej stronie https://papiez.skiffybot.xyz. Pan z wami i z duchem Twoim.
 
 ## 🍰 • Jak to uruchomić?
 1. Pobierz niniejsze repozytorium.
