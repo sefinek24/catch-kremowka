@@ -1,14 +1,14 @@
 {
-  "name": "vdolce.skiffybot.xyz",
+  "name": "papiez-tanczy",
   "version": "1.0.1",
-  "description": "Hehehe papież tańczy",
+  "description": "Hehehe papież tańczy.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "up": "ncu -u && npm install && npm update && npm audit fix"
   },
   "author": "Sefinek",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "dotenv": "^16.0.1",
     "express": "^4.18.1",
