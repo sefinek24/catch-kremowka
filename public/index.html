@@ -2,65 +2,70 @@
 <html lang="pl">
 <head>
     <meta charset="utf-8">
-    <title>Insert kremówka</title>
+    <title>Insert kremówka 2137</title>
 
     <script>
         const num = 9999999999999999999999999999999999999999999999999999999999999999999999999999;
 
         setInterval(() => {
-            console.log(Math.floor(Math.random() * (num - 1)) + 1)
-            console.warn(Math.floor(Math.random() * (num - 1)) + 1)
-            console.error(Math.floor(Math.random() * (num - 1)) + 1)
+            console.log(Math.floor(Math.random() * (num - 1)) + 1);
+            console.warn(Math.floor(Math.random() * (num - 1)) + 1);
+            console.error(Math.floor(Math.random() * (num - 1)) + 1);
         }, 1);
     </script>
 
     <style>
-        body {background-color:black;color:white}
-        h1 {
-            font-size:50px;
-            text-align:center;
-            padding-bottom:30px
-        }
+        body {background-color:#000;color:#fff}
+        h1 {font-size:50px;padding-bottom:30px;text-align:center}
 
         #left {
+            left:5px;
             position:absolute;
-            width:400px;
             top:5px;
-            left:5px
+            width:400px
         }
         #left2 {
+            bottom:5px;
+            left:5px;
             position:absolute;
-            width:500px;
-            left:0;
-            bottom:0;
+            width:500px
         }
         #right {
+            bottom:5px;
             position:absolute;
-            width:400px;
             right:5px;
-            bottom:5px
+            width:400px
+        }
+        #right2 {
+            position:absolute;
+            right:5px;
+            top:5px;
+            width:400px
         }
 
         video {
-            position:absolute;
-            width:500px;
-            top:0;
-            left:0;
-            right:0;
             bottom:0;
-            margin:auto
+            left:0;
+            margin:auto;
+            position:absolute;
+            right:0;
+            top:0;
+            width:500px
         }
 
-        #papaj {text-align:center}
+        #content {text-align:center}
+        #footer {bottom:0;left:0;position:absolute;right:0;text-align:center}
+        a {color:#008cff}
     </style>
 </head>
 <body>
     <h1>INSERT KREMÓWKA 2137</h1>
-    <img src="images/papaj.gif" id="left" alt="papirus">
+    <img src="images/hambunger.gif" id="left" alt="papirus winiary">
     <img src="images/papiez-tanczy.gif" id="left2" alt="hehe papaj tańczy">
-    <img src="images/heh.gif" id="right" alt="papaj cube">
+    <img src="images/papaj-cube.gif" id="right" alt="papajus cubeus">
+    <img src="images/hehe.gif" id="right2" alt="papiez pająk">
 
-    <div id="papaj">
+    <div id="content">
         <audio controls autoplay><source src="snd/music.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio>
         <audio controls autoplay><source src="snd/music.mp3" type="audio/mpeg"></audio>
         <audio controls autoplay><source src="snd/music.mp3" type="audio/mpeg"></audio>
@@ -73,6 +78,11 @@
             <source src="video/papiez.mp4" type="video/mp4">
             Your browser does not support the video tag.
         </video>
+    </div>
+
+    <div id="footer">
+        Copyright 2022 &copy; by Sefinek. All Rights Reserved.<br>
+        <a href="https://github.com/sefinek24/papiez-tanczy" target="_blank">https://github.com/sefinek24/papiez-tanczy</a>
     </div>
 </body>
 </html>
