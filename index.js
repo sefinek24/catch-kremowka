@@ -7,6 +7,6 @@ app.use(hidePoweredBy());
 app.use(express.static('public'));
 
 app.listen(process.env.PORT, () => {
-    console.log(`Application is running on http://127.0.0.1:${process.env.PORT}.`);
-    if (process.env.NODE_ENV === 'production') process.send('ready');
+	console.log(`Application is running on http://127.0.0.1:${process.env.PORT}.`);
+	if (process.env.NODE_ENV === 'production') process.send('ready');
 });
