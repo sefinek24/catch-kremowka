@@ -1,5 +1,5 @@
 ## 🧀 • Hehe papież tańczy
-Odpal to cudo. Nie pożałujesz. Pan z wami i z duchem Twoim.
+Odpal to cudo. Nie pożałujesz. Pan z wami i z duchem Twoim. Możesz również otworzyć to na naszej stronie: https://papiez.skiffybot.xyz
 
 ## 🍰 • Jak to uruchomić?
 1. Pobierz niniejsze repozytorium.
@@ -10,7 +10,7 @@ Dla tych, co chcą to udostępnić swoich stronach stworzonych w [Node.js](https
 
 ## 💻 • Jak uruchomić aplikacje?
 ### » Wymagania:
-- [Node.js](https://nodejs.org/en) w wersji LTS
+- Zainstalowane [Node.js](https://nodejs.org/en) w wersji LTS
 - Sklonowane pliki z tego repozytorium
 
 ### » Krok po kroku co trzeba zrobić
