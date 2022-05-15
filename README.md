@@ -18,4 +18,4 @@ Dla tych, co chcą to udostępnić swoich stronach stworzonych w [Node.js](https
 2. Wypakuj pobrane archiwum.
 3. Uruchom plik **start.cmd**.
 4. Aplikacja domyślnie uruchomi się na porcie 8080. Upewnij się, czy port jest wolny.
-5. Wpisz `localhost` lub `127.0.0.1` (IP komputera lokalnego) w swojej przeglądarce i po `:` dopisz ustalony port (domyślnie 8080). Możesz również kliknąć [tutaj](http://127.0.0.1:8080) lub po prostu skopiować link, który został ukazany przez serwer w oknie wiersza poleceń.
+5. Wpisz `localhost` lub `127.0.0.1` (IP komputera lokalnego) w swojej przeglądarce i po `:` dopisz ustalony port (domyślnie 8080). Możesz również kliknąć [tutaj](http://127.0.0.1:8080) lub po prostu skopiować link z okna wiersza poleceń.
