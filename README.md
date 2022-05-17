@@ -15,10 +15,10 @@ Odpal to cudo. Nie pożałujesz. Możesz również otworzyć to na naszej stroni
 6. Wpisz `localhost` lub `127.0.0.1` (IP komputera lokalnego) w swojej przeglądarce i po `:` dopisz ustalony port (domyślnie 8080). Możesz również kliknąć [tutaj](http://127.0.0.1:8080) lub po prostu skopiować link z okna wiersza poleceń.
 7. Zezwól na dźwięk stronie w uprawnieniach.
 
-## ⚠️ » Informacja
+## ⚠️ • Informacja
 Proszę pamiętać, że niniejsza strona powstała tylko i wyłącznie w celach humorystycznych.
 
-## ⭐ » Daj gwiazdeczkę
+## ⭐ • Daj gwiazdeczkę
 <div align="center">
     <p>Dasz stara? Pweeese... Tylko zostaw mnie okrutniku!</p>
     <img src="https://raw.githubusercontent.com/sefinek24/papiez-tanczy/main/public/image/woman.png" height="700px" alt="Woman">
