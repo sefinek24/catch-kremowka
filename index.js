@@ -22,9 +22,9 @@ const result = checkUpdate();
 app.use(morgan(':method :url [:status] :response-time ms - :user-agent'));
 
 
-app.get('/', async (req, res) => res.render('index'));
+app.get('/', (req, res) => res.render('index'));
 app.get('/kremowka', async (req, res) => res.render('kremowka', { update: await result }));
-app.get('/DFS7pwpEbTHEZ9MoFDkCqhcbzp8HU9nXeDu3Ah7bBfg2PtPVxzXogAXfpvpH4a6HeZaeHGPKovbBprWnrm97mxMasAhVbN4PeDtnKHwxD8ztYVfPGNnsKy2CzJXaWsqBvjoEskCvSBpgX4w5hhWtfovfwTQTKEUFoHKetNaKPXsdroH9552JRVqNfE8qJtwxAFctUMDaavM2hUzLqZVGnKV2PtRYmMWnTyfdLkMmeZMVmM8adtgYDBrTvHhgVE4eDJSPt6A7vNtgZZRDTy4WATfv3Xco3E36PkmGPmeKy7sYxH3RGvdGPTCgge4JkwfyfZFvKkFJRx8PFz6MvHUJ3WrJAUSmQykvXqr9awhruQEAQaNKj8UKuKTv5cgkaZfyQ77q3PfW6mXmVbwDHQPCZ9yvKefmEUjUrQJT6qgAaDnvfhzpxPsXoqTy5yj9T3tJjC4NsKP3PAXuhWhfbaDYYWWtUF2d9UoRWR6P2kgfkD922RGCrK2Q7oHrua53vRkS8P7yyNehSNJj6QmW2McxzmpuVSVQ9F9GUFESTkAcxJU3ZFprSZoSLbM7t8o3dV9y2eQmXQWUZhoqpbgGB5YNEbmyJ82ouzmVeBFCS4XjKK9ynPEpj5BpFnoQUNCNNp9trfvJHSsT3ZSPfWCYsDMxrAMKNQ', async (req, res) => res.render('uwu'));
+app.get('/DFS7pwpEbTHEZ9MoFDkCqhcbzp8HU9nXeDu3Ah7bBfg2PtPVxzXogAXfpvpH4a6HeZaeHGPKovbBprWnrm97mxMasAhVbN4PeDtnKHwxD8ztYVfPGNnsKy2CzJXaWsqBvjoEskCvSBpgX4w5hhWtfovfwTQTKEUFoHKetNaKPXsdroH9552JRVqNfE8qJtwxAFctUMDaavM2hUzLqZVGnKV2PtRYmMWnTyfdLkMmeZMVmM8adtgYDBrTvHhgVE4eDJSPt6A7vNtgZZRDTy4WATfv3Xco3E36PkmGPmeKy7sYxH3RGvdGPTCgge4JkwfyfZFvKkFJRx8PFz6MvHUJ3WrJAUSmQykvXqr9awhruQEAQaNKj8UKuKTv5cgkaZfyQ77q3PfW6mXmVbwDHQPCZ9yvKefmEUjUrQJT6qgAaDnvfhzpxPsXoqTy5yj9T3tJjC4NsKP3PAXuhWhfbaDYYWWtUF2d9UoRWR6P2kgfkD922RGCrK2Q7oHrua53vRkS8P7yyNehSNJj6QmW2McxzmpuVSVQ9F9GUFESTkAcxJU3ZFprSZoSLbM7t8o3dV9y2eQmXQWUZhoqpbgGB5YNEbmyJ82ouzmVeBFCS4XjKK9ynPEpj5BpFnoQUNCNNp9trfvJHSsT3ZSPfWCYsDMxrAMKNQ', (req, res) => res.render('uwu'));
 
 app.get('*', (req, res) => res.redirect('/video/wapiesz.mp4'));
 app.use((err, req, res, next) => {
