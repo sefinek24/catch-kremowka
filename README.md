@@ -16,5 +16,7 @@ Odpal to cudo. Nie pożałujesz. Możesz również otworzyć to na naszej stroni
 7. Zezwól na dźwięk stronie w uprawnieniach.
 
 ## ⭐ » Daj gwiazdeczkę
-Dasz stara? Pweeese...  
-<img src="https://raw.githubusercontent.com/sefinek24/papiez-tanczy/main/public/image/woman.png">
+<div align="center">
+    <p>Dasz stara? Pweeese...</p>
+    <img src="https://raw.githubusercontent.com/sefinek24/papiez-tanczy/main/public/image/woman.png" height="700px" alt="Woman">
+</div>
