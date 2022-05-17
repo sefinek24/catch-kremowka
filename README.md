@@ -24,5 +24,5 @@ Jeśli chcesz wnieść swój wkład, dokonaj zmian w kodzie i następnie utwórz
 ## ⭐ • Daj gwiazdeczkę
 <div align="center">
     <p>Dasz stara? Pweeese... Tylko zostaw mnie okrutniku!</p>
-    <img src="https://raw.githubusercontent.com/sefinek24/papiez-tanczy/main/public/image/woman.png" height="700px" alt="Woman">
+    <img src="https://raw.githubusercontent.com/sefinek24/papiez-tanczy/main/public/image/woman.png" height="700" alt="Woman">
 </div>
