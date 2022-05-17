@@ -14,3 +14,7 @@ Odpal to cudo. Nie pożałujesz. Możesz również otworzyć to na naszej stroni
 5. Aplikacja domyślnie uruchomi się na porcie `8080`. Upewnij się, czy port jest wolny.
 6. Wpisz `localhost` lub `127.0.0.1` (IP komputera lokalnego) w swojej przeglądarce i po `:` dopisz ustalony port (domyślnie 8080). Możesz również kliknąć [tutaj](http://127.0.0.1:8080) lub po prostu skopiować link z okna wiersza poleceń.
 7. Zezwól na dźwięk stronie w uprawnieniach.
+
+## ⭐ » Daj gwiazdeczkę
+Dasz stara? Pweeese...  
+<img src="https://raw.githubusercontent.com/sefinek24/papiez-tanczy/main/public/image/woman.gif">
