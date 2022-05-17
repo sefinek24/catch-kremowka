@@ -17,4 +17,4 @@ Odpal to cudo. Nie pożałujesz. Możesz również otworzyć to na naszej stroni
 
 ## ⭐ » Daj gwiazdeczkę
 Dasz stara? Pweeese...  
-<img src="https://raw.githubusercontent.com/sefinek24/papiez-tanczy/main/public/image/woman.gif">
+<img src="https://raw.githubusercontent.com/sefinek24/papiez-tanczy/main/public/image/woman.png">
