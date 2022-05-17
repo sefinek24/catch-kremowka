@@ -15,8 +15,11 @@ Odpal to cudo. Nie pożałujesz. Możesz również otworzyć to na naszej stroni
 6. Wpisz `localhost` lub `127.0.0.1` (IP komputera lokalnego) w swojej przeglądarce i po `:` dopisz ustalony port (domyślnie 8080). Możesz również kliknąć [tutaj](http://127.0.0.1:8080) lub po prostu skopiować link z okna wiersza poleceń.
 7. Zezwól na dźwięk stronie w uprawnieniach.
 
-## ⚠️ • Informacja
-Proszę pamiętać, że niniejsza strona powstała tylko i wyłącznie w celach humorystycznych.
+## ⚠️ • Ostrzeżenie
+Proszę pamiętać, że niniejsza strona powstała tylko i wyłącznie w celach humorystycznych. Nie należy brać również użytych obelg na poważnie.
+
+## 🆕 • Społeczność
+Jeśli chcesz wnieść swój wkład, sklonuj repozytorium, a następnie utwórz nowy [pull request](https://github.com/sefinek24/papiez-tanczy/compare). Nowe zmiany zostaną później opublikowane na [produkcji](https://papiez.skiffybot.xyz).
 
 ## ⭐ • Daj gwiazdeczkę
 <div align="center">
