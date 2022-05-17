@@ -1,18 +1,16 @@
 body {color:#fff}
 
 @keyframes colors {
-    0% {background-color:#ffea00}
+    0% {background-color:#ffe900}
     25% {background-color:#070707}
-    50% {background-color:#ffae00}
+    50% {background-color:#ffe900}
     75% {background-color:#070707}
-    100% {background-color:#FFFF00}
+    100% {background-color:#ffffff}
 }
 
 body {
-    -webkit-animation:colors 1s infinite;
-    animation:colors 1s infinite;
-    -webkit-animation-direction:alternate;
-    animation-direction:alternate
+    -webkit-animation:colors .1s infinite;
+    animation:colors .1s infinite
 }
 
 h1 {font-size:50px;padding-bottom:30px;text-align:center}
@@ -53,5 +51,6 @@ video {
 }
 
 #content {text-align:center}
+.uwu {text-decoration:none;color:#ffe1e1}
 #footer {bottom:0;left:0;position:absolute;right:0;text-align:center}
 a {color:#008CFF}

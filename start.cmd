@@ -3,12 +3,6 @@ chcp 65001
 title Hehehe papież tańczy
 cls
 
-if exist %ProgramFiles(x86)% (
-    echo » Środowisko uruchomieniowe nie zostało wykryte w lokalizacji %ProgramFiles(x86)%\nodejs
-) else (
-echo » Środowisko uruchomieniowe nie zostało wykryte w lokalizacji %ProgramFiles(x86)%\nodejs
-)
-
 if exist node_modules (
     echo » Trwa uruchamianie serwera...
 ) else (
