@@ -1,56 +1,20 @@
-body {color:#fff}
-
-@keyframes colors {
-    0% {background-color:#ffe900}
-    25% {background-color:#070707}
-    50% {background-color:#ffe900}
-    75% {background-color:#070707}
-    100% {background-color:#ffffff}
-}
-
 body {
-    -webkit-animation:colors .1s infinite;
-    animation:colors .1s infinite
+    background-color:#000;
+    color:#FFF;
+    text-align:center
 }
 
-h1 {font-size:50px;padding-bottom:30px;text-align:center}
+h1 {color:#FF0;text-align:center}
 
-#left {
-    left:7px;
-    position:absolute;
-    top:7px;
-    width:389px
-}
-#left2 {
-    bottom:7px;
-    left:7px;
-    position:absolute;
-    width:389px
-}
-#right {
-    bottom:7px;
-    position:absolute;
-    right:7px;
-    width:389px
-}
-#right2 {
-    position:absolute;
-    right:7px;
-    top:7px;
-    width:389px
+button {
+    background-color:#5865f2;
+    border-radius:14px;
+    color:#fff;
+    cursor:pointer;
+    height:30px;
+    transition:.2s;
+    width:110px
 }
 
-video {
-    bottom:0;
-    left:0;
-    margin:auto;
-    position:absolute;
-    right:0;
-    top:0;
-    width:500px
-}
-
-#content {text-align:center}
-.uwu {text-decoration:none;color:#ffe1e1}
-#footer {bottom:0;left:0;position:absolute;right:0;text-align:center}
-a {color:#008CFF}
+button:hover {background-color:#4752c4}
+button:active {background-color:#3c45a5}
