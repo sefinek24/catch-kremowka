@@ -19,7 +19,7 @@ Odpal to cudo. Nie pożałujesz. Możesz również otworzyć to na naszej stroni
 Proszę pamiętać, że niniejsza strona powstała tylko i wyłącznie w celach humorystycznych. Nie należy brać również użytych obelg na poważnie.
 
 ## 🆕 • Społeczność
-Jeśli chcesz wnieść swój wkład, sklonuj repozytorium, a następnie utwórz nowy [pull request](https://github.com/sefinek24/papiez-tanczy/compare). Nowe zmiany zostaną później opublikowane na [produkcji](https://papiez.skiffybot.xyz).
+Jeśli chcesz wnieść swój wkład, dokonaj zmian w kodzie i następnie utwórz nowy [pull request](https://github.com/sefinek24/papiez-tanczy/compare). Nowe zmiany zostaną później opublikowane na [produkcji](https://papiez.skiffybot.xyz).
 
 ## ⭐ • Daj gwiazdeczkę
 <div align="center">
