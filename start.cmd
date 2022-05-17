@@ -1,7 +1,13 @@
 @echo off
 chcp 65001
-cls
 title Hehehe papież tańczy
+cls
+
+if exist %ProgramFiles(x86)% (
+    echo » Środowisko uruchomieniowe nie zostało wykryte w lokalizacji %ProgramFiles(x86)%\nodejs
+) else (
+echo » Środowisko uruchomieniowe nie zostało wykryte w lokalizacji %ProgramFiles(x86)%\nodejs
+)
 
 if exist node_modules (
     echo » Trwa uruchamianie serwera...
@@ -9,7 +15,7 @@ if exist node_modules (
     echo » Katalog node_modules nie istnieje!
     echo.
     echo Wymagane zależności zostaną zainstalowane za 15 sekund.
-    echo Możesz również kliknąć [ENTER], aby zainstalować je natychmiast.
+    echo Możesz również kliknąć dowolny przycisk, aby zainstalować je natychmiast.
     timeout /t 15
     echo.
     echo » Trwa instalacja zależności...
