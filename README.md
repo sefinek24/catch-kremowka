@@ -21,8 +21,14 @@ Proszę pamiętać, że niniejsza strona powstała tylko i wyłącznie w celach 
 ## 🆕 • Społeczność
 Jeśli chcesz wnieść swój wkład, dokonaj zmian w kodzie i następnie utwórz nowy [pull request](https://github.com/sefinek24/papiez-tanczy/compare). Nowe zmiany zostaną później opublikowane na [produkcji](https://papiez.skiffybot.xyz).
 
+## 🔖 • Uznania autorskie
+https://www.pixiv.net/en/artworks/97101719 (Autor: 抹茶にあ; https://twitter.com/MatchaNear)  
+https://www.pixiv.net/en/artworks/94764101 (Autor: ピロリ菌; https://www.pixiv.net/en/users/19731971)  
+https://www.youtube.com/watch?v=mqD7ugPFWq8 (Reupload; https://www.youtube.com/channel/UCnRE4pu5jmc_d8A7x2_E9sA)  
+https://www.youtube.com/watch?v=1vZ28SAgzKc (https://www.youtube.com/channel/UCUCN6tHWcjd-z5iPCBzTcsQ)
+
 ## ⭐ • Daj gwiazdeczkę
 <div align="center">
-    <p>Dasz stara? Pweeese... Tylko zostaw mnie okrutniku!</p>
+    <p>Dasz stara? Pweeese... Tylko mnie zostaw okrutniku!</p>
     <img src="https://raw.githubusercontent.com/sefinek24/papiez-tanczy/main/public/image/woman.png" height="700" alt="Woman">
 </div>
