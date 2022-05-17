@@ -17,6 +17,6 @@ Odpal to cudo. Nie pożałujesz. Możesz również otworzyć to na naszej stroni
 
 ## ⭐ » Daj gwiazdeczkę
 <div align="center">
-    <p>Dasz stara? Pweeese...</p>
+    <p>Dasz stara? Pweeese... Tylko zostaw mnie okrutniku!</p>
     <img src="https://raw.githubusercontent.com/sefinek24/papiez-tanczy/main/public/image/woman.png" height="700px" alt="Woman">
 </div>
