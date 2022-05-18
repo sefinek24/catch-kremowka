@@ -24,7 +24,7 @@ Jeśli chcesz wnieść swój wkład, dokonaj zmian w kodzie i następnie utwórz
 ## 🔖 • Uznania autorskie
 https://pixiv.net/en/artworks/97101719 (Autor: 抹茶にあ; https://twitter.com/MatchaNear)  
 https://pixiv.net/en/artworks/94764101 (Autor: ピロリ菌; https://pixiv.net/en/users/19731971)  
-https://youtube.com/watch?v=mqD7ugPFWq8 (Reupload; https://youtube.com/channel/UCnRE4pu5jmc_d8A7x2_E9sA)  
+https://youtube.com/watch?v=mqD7ugPFWq8 (Reupload)  
 https://youtube.com/watch?v=1vZ28SAgzKc (https://youtube.com/channel/UCUCN6tHWcjd-z5iPCBzTcsQ)
 
 ## ⭐ • Daj gwiazdeczkę
