@@ -43,7 +43,7 @@ app.listen(process.env.PORT, async () => {
 	);
 
 	const update = await result;
-	if (update.newRelease) console.log(`» Dostępna jest nowa wersja! v${update.yourVersion} -> v${update.current}\n» Pobierz ją z repozytorium: https://github.com/sefinek24/papiez-tanczy`);
+	if (update.newRelease) console.log(`» Dostępna jest nowa wersja! v${update.yourVersion} → v${update.current}\n» Pobierz ją z repozytorium: https://github.com/sefinek24/papiez-tanczy`);
 
 	if (process.env.NODE_ENV === 'production') process.send('ready');
 });
