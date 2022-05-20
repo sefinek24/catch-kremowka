@@ -8,4 +8,4 @@ setInterval(() => {
 	console.log('Czy wiesz, że Karol Wojtyła bardzo kochał piłkę nożną i był świetnym graczem, nawet w 1940 został królem strzelców w Katyniu?');
 }, 3);
 
-// Papież gwałciciel pedofil kastrat zbok
+// Papież gwałciciel pedofil kastrat zboczeniec
