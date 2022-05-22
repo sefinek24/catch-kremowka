@@ -52,6 +52,6 @@ app.listen(process.env.PORT, async () => {
  * Należy pamiętać o tym, że niniejsza strona powstała w celach humorystycznych.
  * Copyright 2022 © by Sefinek. All Rights Reserved.
  *
- * Produkcja: https://papiez.skiffybot.xyz
+ * Produkcja: https://kremowka.sefinek.fun
  * Repozytorium: https://github.com/sefinek24/papiez-tanczy
  */

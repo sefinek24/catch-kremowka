@@ -9,7 +9,7 @@ echo =======================================================================
 echo.
 echo   !! Proszę pamiętać, że strona powstała w celach humorystycznych !!
 echo.
-echo Produkcja    : https://papiez.skiffybot.xyz
+echo Produkcja    : https://kremowka.sefinek.fun
 echo Repozytorium : https://github.com/sefinek24/papiez-tanczy
 echo.
 echo =======================================================================

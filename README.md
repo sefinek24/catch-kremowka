@@ -1,5 +1,5 @@
 ## 🧀・Hehe papież tańczy
-Odpal to cudo. Nie pożałujesz. Możesz również otworzyć to na naszej stronie https://papiez.skiffybot.xyz. Pan z wami i z duchem Twoim. Okryj również ukryte easter eggi!
+Odpal to cudo. Nie pożałujesz. Możesz również otworzyć to na naszej stronie https://kremowka.sefinek.fun. Pan z wami i z duchem Twoim. Okryj również ukryte easter eggi!
 
 ## 🌍・Jak to uruchomić?
 ### » Wymagania
@@ -19,7 +19,7 @@ Odpal to cudo. Nie pożałujesz. Możesz również otworzyć to na naszej stroni
 Proszę pamiętać, że niniejsza strona powstała tylko i wyłącznie w celach humorystycznych. Nie należy brać również użytych obelg na poważnie.
 
 ## 🆕・Społeczność
-Jeśli chcesz wnieść swój wkład, dokonaj zmian w kodzie i następnie utwórz nowy [pull request](https://github.com/sefinek24/papiez-tanczy/compare). Nowe zmiany zostaną później opublikowane na [produkcji](https://papiez.skiffybot.xyz).
+Jeśli chcesz wnieść swój wkład, dokonaj zmian w kodzie i następnie utwórz nowy [pull request](https://github.com/sefinek24/papiez-tanczy/compare). Nowe zmiany zostaną później opublikowane na [produkcji](https://kremowka.sefinek.fun).
 
 ## 🔖・Uznania autorskie
 https://pixiv.net/en/artworks/97101719 (Autor: 抹茶にあ; https://twitter.com/MatchaNear)  
