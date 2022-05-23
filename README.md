@@ -1,6 +1,6 @@
 ## 🧀・Hehe papież tańczy
 Odpal to cudo. Nie pożałujesz. Możesz również otworzyć to na naszej stronie https://kremowka.sefinek.fun.  
-Pan z wami i z duchem Twoim. Okryj również ukryte easter eggi!
+Okryj również ukryte easter eggi! Pan z wami i z duchem Twoim. Niech papież ma Cię w swojej opiece.
 
 ## 🌍・Jak to uruchomić?
 ### » Wymagania
