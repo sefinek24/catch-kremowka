@@ -27,6 +27,9 @@ https://pixiv.net/en/artworks/94764101 (Autor: ピロリ菌; https://pixiv.net/e
 https://youtube.com/watch?v=mqD7ugPFWq8 (Reupload)  
 https://youtube.com/watch?v=1vZ28SAgzKc (https://youtube.com/channel/UCUCN6tHWcjd-z5iPCBzTcsQ)
 
+## 💼・Kontakt
+> contact@sefinek.fun
+
 ## ⭐・Daj gwiazdeczkę
 <div align="center">
     <p>Dasz stara? Pweeese... Tylko mnie zostaw okrutniku!</p>
