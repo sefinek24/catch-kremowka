@@ -6,11 +6,15 @@ const morgan = require('morgan');
 const { version } = require('./package.json');
 require('dotenv').config();
 
+// Run express instance
 const app = express();
 
+// Use
 app.use(hidePoweredBy());
 app.use(favicon('./public/image/favicon.ico'));
 app.use(express.static('public'));
+
+// Set
 app.set('view engine', 'ejs');
 
 // Setup logger
