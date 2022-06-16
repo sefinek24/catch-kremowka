@@ -34,5 +34,5 @@ https://youtube.com/watch?v=1vZ28SAgzKc (https://youtube.com/channel/UCUCN6tHWcj
 ## ⭐・Daj gwiazdeczkę
 <div align="center">
     <p>Dasz stara? Pweeese... Tylko mnie zostaw okrutniku!</p>
-    <img src="https://raw.githubusercontent.com/sefinek24/papiez-tanczy/main/public/image/anime-szmaciura.png" height="700" alt="Woman">
+    <img src="https://raw.githubusercontent.com/sefinek24/papiez-tanczy/main/public/image/anime-szmaciura.png" height="680" alt="Woman">
 </div>
