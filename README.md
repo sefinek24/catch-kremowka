@@ -40,6 +40,6 @@ https://youtube.com/watch?v=1vZ28SAgzKc (https://youtube.com/channel/UCUCN6tHWcj
 
 ## ⭐・Daj gwiazdeczkę
 <div align="center">
-    <p>Dasz stara? Pweease... Tylko mnie zostaw okrutniku!</p>
+    <h4>Dasz stara? Pweease...</h4>
     <img src="https://raw.githubusercontent.com/sefinek24/papiez-tanczy/main/public/image/anime-szmaciura.png" height="680" alt="Woman">
 </div>
