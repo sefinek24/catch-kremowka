@@ -40,6 +40,6 @@ https://youtube.com/watch?v=1vZ28SAgzKc (https://youtube.com/channel/UCUCN6tHWcj
 
 ## ⭐・Daj gwiazdeczkę
 <div align="center">
-    <h4>Dasz stara? Pweease...</h4>
+    <h3>Dasz stara? Pweease...</h3>
     <img src="https://raw.githubusercontent.com/sefinek24/papiez-tanczy/main/public/image/anime-szmaciura.png" height="680" alt="Woman">
 </div>
