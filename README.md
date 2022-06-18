@@ -5,7 +5,6 @@
     </p>
 </div>
 
-
 Odpal to cudo. Nie pożałujesz. Możesz również otworzyć to na mojej stronie https://kremowka.sefinek.fun.  
 Okryj również ukryte easter eggi! Pan z wami i z duchem Twoim. Niech papież ma Cię w swojej opiece.
 
