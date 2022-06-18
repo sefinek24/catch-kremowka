@@ -1,13 +1,12 @@
 <div align="center">
     <h1>🍮・Hehe papież tańczy・🍮</h1>
     <img src="https://raw.githubusercontent.com/sefinek24/papiez-tanczy/main/public/image/papiez-tanczy.gif" alt="Papież tańczy">
-
-    <p>
-        Odpal to cudo. Nie pożałujesz. Możesz również otworzyć to na naszej stronie https://kremowka.sefinek.fun.<br>
-        Okryj również ukryte easter eggi! Pan z wami i z duchem Twoim. Niech papież ma Cię w swojej opiece.
-    </p>
 </div>
 
+<p>
+    Odpal to cudo. Nie pożałujesz. Możesz również otworzyć to na naszej stronie https://kremowka.sefinek.fun.<br>
+    Okryj również ukryte easter eggi! Pan z wami i z duchem Twoim. Niech papież ma Cię w swojej opiece.
+</p>
 
 ## 🌍・Jak to uruchomić?
 ### » Wymagania
