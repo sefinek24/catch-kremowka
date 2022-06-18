@@ -26,7 +26,7 @@ if exist node_modules (
     echo.
     echo » Trwa instalacja zależności...
     npm install
-    start.cmd
+    Start.cmd
 )
 
 echo.
