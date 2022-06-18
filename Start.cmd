@@ -29,5 +29,5 @@ if not exist node_modules (
 echo » Trwa uruchamianie serwera... & echo.
 
 node index.js
-echo Ups. Cos poszło nie tak ):
+echo Ups. Cos poszło nie tak ): & echo.
 pause
