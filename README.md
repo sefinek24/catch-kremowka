@@ -1,8 +1,6 @@
 <div align="center">
     <h1>🍮・Hehe papież tańczy・🍮</h1>
-    <p>
-        <img src="https://raw.githubusercontent.com/sefinek24/papiez-tanczy/main/public/image/papiez-tanczy.gif" alt="Papież tańczy">
-    </p>
+    <img src="public/image/papiez-tanczy.gif" alt="Papież tańczy">
 </div>
 
 Odpal to cudo. Nie pożałujesz. Możesz również otworzyć to na mojej stronie https://kremowka.sefinek.fun.  
@@ -40,5 +38,5 @@ https://youtube.com/watch?v=1vZ28SAgzKc (https://youtube.com/channel/UCUCN6tHWcj
 ## ⭐・Daj gwiazdeczkę
 <div align="center">
     <h3>Dasz stara? Pweease...</h3>
-    <img src="https://raw.githubusercontent.com/sefinek24/papiez-tanczy/main/public/image/anime-szmaciura.png" height="680" alt="Woman">
+    <img src="public/image/anime-szmaciura.png" height="680" alt="Woman xddd">
 </div>
