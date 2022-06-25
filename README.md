@@ -1,6 +1,8 @@
 <div align="center">
     <h1>🍮・Hehe papież tańczy・🍮</h1>
-    <img src="public/image/papiez-tanczy.gif" alt="Papież tańczy">
+    <p>
+        <img src="public/image/papiez-tanczy.gif" alt="Papież tańczy">
+    </p>
 </div>
 
 Odpal to cudo. Nie pożałujesz. Możesz również otworzyć to na mojej stronie https://kremowka.sefinek.fun.  
