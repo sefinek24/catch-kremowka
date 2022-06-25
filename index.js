@@ -1,10 +1,11 @@
+require('dotenv').config();
+
 const express = require('express');
 const { hidePoweredBy } = require('helmet');
 const favicon = require('serve-favicon');
 const { get } = require('axios');
 const morgan = require('morgan');
 const { version } = require('./package.json');
-require('dotenv').config();
 
 // Run express instance
 const app = express();
@@ -53,8 +54,8 @@ app.listen(process.env.PORT, async () => {
 });
 
 /**
- * Należy pamiętać o tym, że niniejsza strona powstała w celach humorystycznych.
  * Copyright 2022 © by Sefinek. All Rights Reserved.
+ * Należy pamiętać o tym, że niniejsza strona powstała w celach humorystycznych.
  *
  * Produkcja: https://kremowka.sefinek.fun
  * Repozytorium: https://github.com/sefinek24/papiez-tanczy

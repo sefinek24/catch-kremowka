@@ -4,7 +4,7 @@ title Hehe papież tańczy - Copyright 2022 © by Sefinek. All Rights Reserved.
 cls
 
 echo =======================================================================
-echo                         PAPIEŻ TAŃCZY - v1.2.3
+echo                         PAPIEŻ TAŃCZY - v1.2.5
 echo =======================================================================
 echo.
 echo   !! Proszę pamiętać, że strona powstała w celach humorystycznych !!
@@ -27,7 +27,7 @@ if not exist node_modules (
 )
 
 echo » Trwa uruchamianie serwera... & echo.
-
 node index.js
+
 echo Ups. Cos poszło nie tak ): & echo.
 pause

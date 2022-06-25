@@ -13,7 +13,7 @@ body {
     animation:colors .1s infinite
 }
 
-h1 {font-size:50px;padding-bottom:30px;text-align:center}
+h1 {color:#ffcd88;#font-size:50px;padding-bottom:30px;text-align:center}
 
 #left {
     left:7px;
@@ -53,4 +53,4 @@ video {
 #content {text-align:center}
 .uwu {text-decoration:none;color:#ffe1e1}
 #footer {bottom:0;left:0;position:absolute;right:0;text-align:center}
-a {color:#008CFF}
+a {color:#008cff}
