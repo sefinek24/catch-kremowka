@@ -1,7 +1,7 @@
 {
-  "name": "papiez-tanczy",
-  "version": "1.2.6",
-  "description": "Hehe papież tańczy.",
+  "name": "catch-kremowka",
+  "version": "1.2.7",
+  "description": "Symulator łapania papieskich kremówek.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sefinek24/papiez-tanczy.git"
+    "url": "git+https://github.com/sefinek24/catch-kremowka.git"
   },
   "keywords": [
     "nodejs",
@@ -23,14 +23,16 @@
     "kremowka",
     "watykan",
     "tanczy",
-    "wojtyla"
+    "wojtyla",
+    "lapanie",
+    "kremowek"
   ],
   "author": "Sefinek <contact@sefinek.fun>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sefinek24/papiez-tanczy/issues"
+    "url": "https://github.com/sefinek24/catch-kremowka/issues"
   },
-  "homepage": "https://github.com/sefinek24/papiez-tanczy#readme",
+  "homepage": "https://github.com/sefinek24/catch-kremowka#readme",
   "dependencies": {
     "axios": "^0.27.2",
     "dotenv": "^16.0.1",

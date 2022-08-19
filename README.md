@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>🍮・Hehe papież tańczy・🍮</h1>
+    <h1>🍮・Symulator łapania kremówek・🍮</h1>
     <p>
         <img src="public/image/papiez-tanczy.gif" alt="Papież tańczy">
     </p>
@@ -15,7 +15,7 @@ Okryj również ukryte easter eggi! Pan z wami i z duchem Twoim. Niech papież m
 
 ### » Krok po kroku co trzeba zrobić
 1. Zainstaluj środowisko uruchomieniowe [Node.js](https://nodejs.org/en). W niektórych przypadkach może być konieczne ponowne uruchomienie komputera.
-2. Pobierz pliki z repozytorium, klikając [tutaj](https://github.com/sefinek24/papiez-tanczy/archive/refs/heads/main.zip) lub zielony przycisk.
+2. Pobierz pliki z repozytorium, klikając [tutaj](https://github.com/sefinek24/catch-kremowka/archive/refs/heads/main.zip) lub zielony przycisk.
 3. Wypakuj pobrane archiwum.
 4. Uruchom plik wsadowy **Start.cmd**.
 5. Aplikacja domyślnie uruchomi się na porcie `8080`. Upewnij się, czy port jest wolny.
@@ -26,10 +26,9 @@ Okryj również ukryte easter eggi! Pan z wami i z duchem Twoim. Niech papież m
 Proszę pamiętać, że niniejsza strona powstała tylko i wyłącznie w celach humorystycznych. Nie należy brać również użytych obelg na poważnie.
 
 ## 🆕・Społeczność
-Jeśli chcesz wnieść swój wkład, dokonaj zmian w kodzie i następnie utwórz nowy [pull request](https://github.com/sefinek24/papiez-tanczy/compare). Nowe zmiany zostaną później opublikowane na [produkcji](https://kremowka.sefinek.fun).
+Jeśli chcesz wnieść swój wkład, dokonaj zmian w kodzie i następnie utwórz nowy [pull request](https://github.com/sefinek24/catch-kremowka/pulls). Nowe zmiany zostaną później opublikowane na [produkcji](https://kremowka.sefinek.fun).
 
 ## 🔖・Uznania autorskie
-https://pixiv.net/en/artworks/97101719 (Autor: 抹茶にあ; https://twitter.com/MatchaNear)  
 https://pixiv.net/en/artworks/94764101 (Autor: ピロリ菌; https://pixiv.net/en/users/19731971)  
 https://youtube.com/watch?v=mqD7ugPFWq8 (Reupload)  
 https://youtube.com/watch?v=1vZ28SAgzKc (https://youtube.com/channel/UCUCN6tHWcjd-z5iPCBzTcsQ)

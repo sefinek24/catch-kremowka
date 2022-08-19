@@ -19,25 +19,25 @@ h1 {color:#ffcd88;#font-size:50px;padding-bottom:30px;text-align:center}
     left:7px;
     position:absolute;
     top:7px;
-    width:389px
+    width:360px
 }
 #left2 {
     bottom:7px;
     left:7px;
     position:absolute;
-    width:389px
+    width:360px
 }
 #right {
     bottom:7px;
     position:absolute;
     right:7px;
-    width:389px
+    width:360px
 }
 #right2 {
     position:absolute;
     right:7px;
     top:7px;
-    width:389px
+    width:360px
 }
 
 video {

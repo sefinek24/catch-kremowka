@@ -1,20 +1,28 @@
 body {
-    background-color:#000;
-    color:#fff;
-    text-align:center
+    background-color: #000;
+    color: #fff;
+    text-align: center
 }
 
-h1 {color:#f8c390;text-align:center}
+h1 {
+    color: #f4b568;
+    text-align: center
+}
 
 button {
-    background-color:#5865f2;
-    border-radius:14px;
-    color:#fff;
-    cursor:pointer;
-    height:30px;
-    transition:.2s;
-    width:110px
+    background-color: #5865f2;
+    border-radius: 14px;
+    color: #fff;
+    cursor: pointer;
+    height: 30px;
+    transition: .2s;
+    width: 110px
 }
 
-button:hover {background-color:#4752c4}
-button:active {background-color:#3c45a5}
+button:hover {
+    background-color: #f5b36c
+}
+
+button:active {
+    background-color: #3c45a5
+}

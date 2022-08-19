@@ -1,16 +1,16 @@
 @echo off
 chcp 65001
-title Hehe papież tańczy - Copyright 2022 © by Sefinek. All Rights Reserved.
+title Łapanie kremówek - Copyright 2022 © by Sefinek. All Rights Reserved.
 cls
 
 echo =======================================================================
-echo                         PAPIEŻ TAŃCZY - v1.2.5
+echo                   SYMULATOR ŁAPANIA KREMÓWEK - v1.2.7
 echo =======================================================================
 echo.
 echo   !! Proszę pamiętać, że strona powstała w celach humorystycznych !!
 echo.
 echo Produkcja    : https://kremowka.sefinek.fun
-echo Repozytorium : https://github.com/sefinek24/papiez-tanczy
+echo Repozytorium : https://github.com/sefinek24/catch-kremowka
 echo.
 echo ======================================================================= & echo.
 
