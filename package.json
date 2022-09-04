@@ -1,13 +1,13 @@
 {
   "name": "catch-kremowka",
-  "version": "1.2.7",
+  "version": "1.2.8",
   "description": "Symulator łapania papieskich kremówek.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "up": "ncu -u && npm install && npm update && npm audit fix",
     "upg": "git pull && npm run up",
-    "upp": "npm run upg && pm2 restart papiez-tanczy"
+    "upp": "npm run upg && pm2 restart catch-kremowka"
   },
   "repository": {
     "type": "git",
