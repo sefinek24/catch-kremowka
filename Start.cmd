@@ -4,7 +4,7 @@ title Łapanie kremówek - Copyright 2022 © by Sefinek. All Rights Reserved.
 cls
 
 echo =======================================================================
-echo                   SYMULATOR ŁAPANIA KREMÓWEK - v1.2.7
+echo                   SYMULATOR ŁAPANIA KREMÓWEK - v1.2.9
 echo =======================================================================
 echo.
 echo   !! Proszę pamiętać, że strona powstała w celach humorystycznych !!
