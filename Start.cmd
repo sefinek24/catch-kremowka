@@ -9,7 +9,7 @@ echo =======================================================================
 echo.
 echo   !! Proszę pamiętać, że strona powstała w celach humorystycznych !!
 echo.
-echo Produkcja    : https://kremowka.sefinek.fun
+echo Produkcja    : https://kremowka.sefinek.net
 echo Repozytorium : https://github.com/sefinek24/catch-kremowka
 echo.
 echo ======================================================================= & echo.

@@ -5,7 +5,7 @@
     </p>
 </div>
 
-Odpal to cudo. Nie pożałujesz. Możesz również otworzyć to na mojej stronie https://kremowka.sefinek.fun.  
+Odpal to cudo. Nie pożałujesz. Możesz również otworzyć to na mojej stronie https://kremowka.sefinek.net.  
 Okryj również ukryte easter eggi! Pan z wami i z duchem Twoim. Niech papież ma Cię w swojej opiece.
 
 ## 🌍・Jak to uruchomić?
@@ -26,7 +26,7 @@ Okryj również ukryte easter eggi! Pan z wami i z duchem Twoim. Niech papież m
 Proszę pamiętać, że niniejsza strona powstała tylko i wyłącznie w celach humorystycznych. Nie należy brać również użytych obelg na poważnie.
 
 ## 🆕・Społeczność
-Jeśli chcesz wnieść swój wkład, dokonaj zmian w kodzie i następnie utwórz nowy [pull request](https://github.com/sefinek24/catch-kremowka/pulls). Nowe zmiany zostaną później opublikowane na [produkcji](https://kremowka.sefinek.fun).
+Jeśli chcesz wnieść swój wkład, dokonaj zmian w kodzie i następnie utwórz nowy [pull request](https://github.com/sefinek24/catch-kremowka/pulls). Nowe zmiany zostaną później opublikowane na [produkcji](https://kremowka.sefinek.net).
 
 ## 🔖・Uznania autorskie
 https://pixiv.net/en/artworks/94764101 (Autor: ピロリ菌; https://pixiv.net/en/users/19731971)  

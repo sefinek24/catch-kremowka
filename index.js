@@ -56,6 +56,6 @@ app.listen(process.env.PORT, async () => {
  * Copyright 2022 © by Sefinek. All Rights Reserved.
  * Należy pamiętać o tym, że niniejsza strona powstała w celach humorystycznych.
  *
- * Produkcja: https://kremowka.sefinek.fun
+ * Produkcja: https://kremowka.sefinek.net
  * Repozytorium: https://github.com/sefinek24/catch-kremowka
  */
