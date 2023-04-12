@@ -1,6 +1,6 @@
 {
   "name": "kremowka.sefinek.net",
-  "version": "1.2.10",
+  "version": "1.2.11",
   "description": "Symulator łapania papieskich kremówek.",
   "main": "index.js",
   "scripts": {
